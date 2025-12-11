@@ -1,6 +1,9 @@
-#  About Me:
-I am Niel, Currently a Computer Engineer Student
 
+![8406708](https://github.com/user-attachments/assets/34f891bc-44e1-4f3d-95c7-55191ad74311)
+
+#  About Me:
+Hello, 
+I am Niel, Currently a 1st year Computer Engineering Student. I like exploring and understanding new things that are previously unknowns to me.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/niel02581) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@niel0258) 
